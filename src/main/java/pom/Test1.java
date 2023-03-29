@@ -18,6 +18,7 @@ public class Test1 {
         driver.manage().window().maximize();
 
         lp.login("admin","admin");
+        lp.login("admin","admin");
 
 
 
